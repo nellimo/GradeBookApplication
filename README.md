@@ -1,4 +1,4 @@
-# Lab-01. Aplikacja `GradeBook` <<< update in progress
+# Lab-01. Aplikacja `GradeBook` 
 
 Niniejsze zadanie opracowane zostało jako podsumowanie kursu C# opublikowanego na [pluralsight.com](http://www.pluralsight.com). Oryginał zadania dostępny jest na GitHub pod adresem <https://github.com/pluralsight-projects/CSharp-GradeBookApplication>.
 
